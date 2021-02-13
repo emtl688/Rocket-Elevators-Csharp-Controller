@@ -1,0 +1,13 @@
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.exe
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.deps.json
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.runtimeconfig.json
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.runtimeconfig.dev.json
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.dll
+C:\Users\Eric\Desktop\commercial_controller_csharp\bin\Debug\netcoreapp3.1\commercial_controller_csharp.pdb
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.AssemblyInfo.cs
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.dll
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.pdb
+C:\Users\Eric\Desktop\commercial_controller_csharp\obj\Debug\netcoreapp3.1\commercial_controller_csharp.genruntimeconfig.cache
